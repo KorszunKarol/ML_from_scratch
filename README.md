@@ -33,7 +33,7 @@ This project, completed as part of the  Machine Learning course at Warsaw Univer
 - Application to an OpenAI Gym environment
 - Analysis of learning process and policy convergence
 
-  ### Zadanie 7: Bayesian Naive Classifier
+### Zadanie 7: Bayesian Naive Classifier
 - Implementation of Naive Bayes classifier
 - Analysis of performance and limitations
 
